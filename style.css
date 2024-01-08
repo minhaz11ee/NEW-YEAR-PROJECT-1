@@ -1,0 +1,195 @@
+.header-section img {
+  max-width: 100%;
+  height: auto;
+  background: rgba(7, 2, 17, 1), rgba(7, 2, 17, 0);
+}
+.banner-text {
+  position: absolute;
+  height: 40px;
+  width: 259px;
+  top: 227px;
+  left: 670px;
+}
+.header-section {
+  position: relative;
+}
+.banner-text h3 {
+  color: #00c8ff;
+  font-family: "Merriweather";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 10px;
+  text-align: center;
+  display: flex;
+  margin: auto;
+}
+
+.section-title {
+  color: red;
+  text-align: center;
+  font-size: 37px;
+  font-weight: 700;
+}
+.section-another {
+  color: red;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+}
+.another-hz {
+  color: black;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+}
+.img99 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.brand-new {
+  padding: 15px;
+  margin: 15px;
+  position: relative;
+}
+.brand-new img {
+  max-width: 100%;
+  height: auto;
+}
+.bannerhr {
+  position: absolute;
+  top: 25%;
+  color: #fff;
+  padding: 20px;
+  padding-left: 80px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.bannerhr h3 {
+  font-size: 40px;
+}
+.img2024 {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.container {
+  width: 600px;
+  height: 400px;
+  position: relative;
+  margin: 200 auto;
+}
+.img-title {
+  color: #fff;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+}
+.new-uu {
+  position: absolute;
+  left: 160%;
+  bottom: 0%;
+}
+.about-me {
+  padding: 430px;
+  background: #fff8f3;
+  width: 349px;
+  height: 168px;
+}
+.uuu {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.btn {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  width: 103px;
+  height: 34px;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  background-color: red;
+}
+.sdd {
+  width: 192px;
+  height: 29px;
+  top: 4707.07px;
+  left: 140px;
+}
+.sdd h4 {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: red;
+}
+.sdd h3 {
+  font-size: 25px;
+  font-weight: 500;
+  color: black;
+}
+.img-area {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 250px;
+}
+.single-img {
+  padding: 0 20px 20px;
+}
+.last {
+  background: #fff8f3;
+  width: 800px;
+  height: 300px;
+  text-align: center;
+  margin: auto;
+}
+.last h3 {
+  font-size: 38px;
+  font-weight: 900;
+}
+.last p {
+  font-size: 20px;
+  font-weight: 400;
+}
+.last input {
+  width: 300px;
+  height: 50%;
+}
+.last button {
+  width: 50px;
+  height: 30px;
+  background-color: red;
+  color: #fff;
+}
+.last-not {
+  width: 1100px;
+  height: 400px;
+  background: black;
+  margin-top: 50px;
+}
+.text-xx {
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+}
+.icons {
+  display: flex;
+  align-items: center;
+  padding-top: 10%;
+  padding-right: 12%;
+}
+.ccc {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+}
